@@ -1,0 +1,57 @@
+frontend:
+  - JavaScript
+  - TypeScript
+  - Vue.js
+  - React
+  - Angular
+  - HTML
+  - CSS
+  - Sass
+  - Webpack
+  - Vite
+
+backend:
+  - Python
+  - Java
+  - Go
+  - C++
+  - C#
+  - Ruby
+  - PHP
+  - Rust
+  - Node.js
+  - Django
+  - Flask
+  - FastAPI
+  - Spring
+
+devops:
+  - Docker
+  - Kubernetes
+  - CI/CD
+  - Terraform
+  - AWS
+  - Azure
+  - GCP
+  - Linux
+  - Nginx
+
+database:
+  - PostgreSQL
+  - MySQL
+  - MongoDB
+  - Redis
+  - SQLite
+  - Elasticsearch
+  - SQL
+
+data_science:
+  - Machine Learning
+  - Deep Learning
+  - TensorFlow
+  - PyTorch
+  - Python
+
+messaging:
+  - Kafka
+  - RabbitMQ

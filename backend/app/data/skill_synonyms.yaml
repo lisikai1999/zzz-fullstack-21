@@ -1,0 +1,149 @@
+- canonical: "JavaScript"
+  aliases: ["JS", "js", "Javascript", "javascript", "ECMAScript", "ES6", "ES2015", "ES2016", "ES2017"]
+
+- canonical: "TypeScript"
+  aliases: ["TS", "ts", "typescript", "Typescript"]
+
+- canonical: "Python"
+  aliases: ["python", "Python3", "python3", "py", "Py"]
+
+- canonical: "Java"
+  aliases: ["java", "JAVA"]
+
+- canonical: "Go"
+  aliases: ["go", "Golang", "golang"]
+
+- canonical: "C++"
+  aliases: ["cpp", "CPP", "c++"]
+
+- canonical: "C#"
+  aliases: ["csharp", "CSharp", "c#"]
+
+- canonical: "Ruby"
+  aliases: ["ruby", "rb"]
+
+- canonical: "PHP"
+  aliases: ["php", "Php"]
+
+- canonical: "Rust"
+  aliases: ["rust"]
+
+- canonical: "Vue.js"
+  aliases: ["Vue", "vue", "VueJS", "vuejs", "Vue3", "vue3", "Vue2", "vue2", "Vue.js"]
+
+- canonical: "React"
+  aliases: ["ReactJS", "react", "react.js", "React.js", "reactjs"]
+
+- canonical: "Angular"
+  aliases: ["angular", "AngularJS", "angularjs", "Angular.js"]
+
+- canonical: "Node.js"
+  aliases: ["Node", "node", "NodeJS", "nodejs", "node.js"]
+
+- canonical: "Django"
+  aliases: ["django"]
+
+- canonical: "Flask"
+  aliases: ["flask"]
+
+- canonical: "FastAPI"
+  aliases: ["fastapi", "Fastapi"]
+
+- canonical: "Spring"
+  aliases: ["spring", "SpringBoot", "Spring Boot", "spring boot"]
+
+- canonical: "Docker"
+  aliases: ["docker", "容器"]
+
+- canonical: "Kubernetes"
+  aliases: ["K8s", "k8s", "kubernetes", "K8S"]
+
+- canonical: "AWS"
+  aliases: ["aws", "Amazon Web Services"]
+
+- canonical: "Azure"
+  aliases: ["azure", "Microsoft Azure"]
+
+- canonical: "GCP"
+  aliases: ["gcp", "Google Cloud", "Google Cloud Platform"]
+
+- canonical: "PostgreSQL"
+  aliases: ["Postgres", "postgres", "pg", "PG", "postgresql"]
+
+- canonical: "MySQL"
+  aliases: ["mysql", "Mysql"]
+
+- canonical: "MongoDB"
+  aliases: ["mongodb", "Mongo", "mongo"]
+
+- canonical: "Redis"
+  aliases: ["redis"]
+
+- canonical: "SQLite"
+  aliases: ["sqlite", "sqlite3"]
+
+- canonical: "Elasticsearch"
+  aliases: ["ES", "elasticsearch", "elastic"]
+
+- canonical: "Linux"
+  aliases: ["linux", "LINUX", "Ubuntu", "CentOS", "Debian"]
+
+- canonical: "Git"
+  aliases: ["git", "GIT"]
+
+- canonical: "CI/CD"
+  aliases: ["cicd", "CICD", "CI CD", "持续集成"]
+
+- canonical: "Terraform"
+  aliases: ["terraform", "tf"]
+
+- canonical: "HTML"
+  aliases: ["html", "HTML5", "html5"]
+
+- canonical: "CSS"
+  aliases: ["css", "CSS3", "css3"]
+
+- canonical: "Sass"
+  aliases: ["sass", "SASS", "SCSS", "scss"]
+
+- canonical: "Webpack"
+  aliases: ["webpack"]
+
+- canonical: "Vite"
+  aliases: ["vite"]
+
+- canonical: "GraphQL"
+  aliases: ["graphql", "Graphql"]
+
+- canonical: "REST"
+  aliases: ["rest", "RESTful", "restful", "REST API"]
+
+- canonical: "Machine Learning"
+  aliases: ["ML", "ml", "机器学习"]
+
+- canonical: "Deep Learning"
+  aliases: ["DL", "dl", "深度学习"]
+
+- canonical: "TensorFlow"
+  aliases: ["tensorflow", "tf"]
+
+- canonical: "PyTorch"
+  aliases: ["pytorch", "Pytorch"]
+
+- canonical: "SQL"
+  aliases: ["sql", "Sql"]
+
+- canonical: "Kafka"
+  aliases: ["kafka", "Apache Kafka"]
+
+- canonical: "RabbitMQ"
+  aliases: ["rabbitmq", "RabbitMq"]
+
+- canonical: "Nginx"
+  aliases: ["nginx", "NGINX"]
+
+- canonical: "Microservices"
+  aliases: ["microservices", "微服务"]
+
+- canonical: "Agile"
+  aliases: ["agile", "Scrum", "scrum"]
